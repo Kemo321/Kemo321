@@ -1,13 +1,13 @@
-# Hi there! 👋
+# Hi there! 
 
 Welcome to my GitHub profile! 
 
 ### About Me  
-I'm a **second-year student** passionate about technology and innovation. My main interests lie in **Artificial Intelligence** 🤖 and **Game Development** 🎮. I'm working towards specializing in AI.
+I'm a **second-year student** passionate about technology and innovation. My main interests lie in **Artificial Intelligence**. I'm working towards specializing in AI.
 
 ---
 
-### 💻 Languages I Know  
+### Languages I Know  
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
@@ -19,7 +19,7 @@ I'm a **second-year student** passionate about technology and innovation. My mai
 
 ---
 
-### 🚀 Technologies I Work With  
+### Technologies I Work With  
 - ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
@@ -28,7 +28,7 @@ I'm a **second-year student** passionate about technology and innovation. My mai
 
 ---
 
-### 🛠️ Tools I Use  
+### Tools I Use  
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 - ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)  
@@ -43,5 +43,4 @@ I'm a **second-year student** passionate about technology and innovation. My mai
 - Yes i use them all
 
 ---
-📫 **Reach me at**: www.linkedin.com/in/tomasz-okoń-a08653305
-💻 **Happy Coding!**
+**Reach me at**: www.linkedin.com/in/tomasz-okoń-a08653305
